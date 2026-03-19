@@ -2,6 +2,9 @@
 #Adguard DNS
 @@||dns.adguard.com^$important
 @@||dns-family.adguard.com^$important
+# DataDog
+@@||datadoghq.com^
+@@||browser-intake-datadoghq.com^
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
@@ -174,6 +177,7 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||1drv.com^$important
 @@||aspnetcdn.com^$important
+@@||teams.events.data.microsoft.com^
 # Netflix
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
