@@ -2,9 +2,11 @@
 #Adguard DNS
 @@||dns.adguard.com^$important
 @@||dns-family.adguard.com^$important
+# Brave Browser
+@@||brave.com^$important
 # DataDog
-@@||datadoghq.com^
-@@||browser-intake-datadoghq.com^
+@@||datadoghq.com^$important
+@@||browser-intake-datadoghq.com^$important
 # Instagram
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
